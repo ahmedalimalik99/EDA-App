@@ -1,7 +1,7 @@
-pandas
-numpy
-seaborn
-streamlit
-ydata-profiling
-streamlit-pandas-profiling
-matplotlib
+pandas==2.2.2
+numpy==1.26.4
+seaborn==0.13.2
+ydata-profiling==4.6.4
+streamlit==1.38.0
+streamlit-pandas-profiling==0.1.3
+setuptools
